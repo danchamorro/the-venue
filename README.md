@@ -1,3 +1,14 @@
+# Description
+
+Building a practice app in React. This app will have a single page with transitions. It will be a countdown to an event that will take place.
+
+# Includes
+
+- material-ui
+- react-reveal
+- react-scroll
+- react-slick
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
